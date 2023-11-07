@@ -60,7 +60,7 @@ header > p{
     padding-right: 10px;
     max-width: 500;
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
     text-align: center ;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.316);
 }
